@@ -1,1 +1,3 @@
-mail：jerry@goshujin.site
+mail：zeng@tsunako.fun
+blog: tsunako.fun
+
